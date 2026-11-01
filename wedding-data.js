@@ -61,8 +61,8 @@ window.WEDDING_DATA = {
     "heroVideo": "./media/hero.mp4",
     "heroPoster": "./media/hero-poster.webp",
     "music": "./media/music.mp3",
-    "musicTitle": "Tujh Mein Rab Dikhta Hai",
-    "musicArtist": "Rab Ne Bana Di Jodi",
-    "musicSource": "https://youtu.be/qoq8B8ThgEM?si=6ZYn4xD5IlryItyS"
+    "musicTitle": "Tujh Mein Rab Dikhta Hai (Flute Version)",
+    "musicArtist": "Vijay Tambe · YRF",
+    "musicSource": "https://youtu.be/C-0yN5hYRJI?t=265"
   }
 };
