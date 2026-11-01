@@ -34,7 +34,7 @@ window.WEDDING_DATA = {
     },
     {
       "title": "Jaimala Ceremony",
-      "time": "8:45 PM"
+      "time": "9:00 PM"
     },
     {
       "title": "Dinner & Celebrations",
